@@ -1,6 +1,6 @@
 # NetPassUSB
 
-This batch file exports the Wi-Fi profiles and some system information of the current computer to a folder named `Computers\<computername>\WiFi` in the USB stick where the file is located. The exported Wi-Fi profiles include the password in clear text.
+This repository includes a batch file that exports the Wi-Fi profiles and some system information of the current computer to a folder named Computers\<computername>\WiFi in the USB stick where the file is located. The exported Wi-Fi profiles include the password in clear text. Usefull if you need to move many network profiles from your old laptop so you dont have to manualy type every password again.
 
 ## Usage
 
